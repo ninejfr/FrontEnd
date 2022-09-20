@@ -1,0 +1,93 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: rgba(0, 0, 0, 0.623);
+}
+
+.cortes {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.cortes li:hover {
+    border-color: rgba(0, 0, 0, 0.623);
+}
+
+.cortes li:hover h2 {
+    font-size: 30px;
+}
+
+.cortes li:active {
+    border-color: rgb(122, 0, 0);
+}
+
+.cortes li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.cortes h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.descricao {
+    font-size: 18px;
+        
+}
+
+.price {
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.774);
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url("img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
