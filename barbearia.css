@@ -1,0 +1,59 @@
+<style>
+            
+    body {
+    }
+    
+    #banner {
+        width:100%;
+    }
+
+    .principal {
+        background: #cccccc;
+        padding: 30px;
+    }
+
+    p {
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    }
+
+    .tituloprincipal {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-left: 20px;
+    }
+
+    .titulocentralizado {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+    }
+
+    #missao {
+        font-size: 20px;
+    }
+
+    em strong {
+        color:rgba(255, 0, 0, 0.781);
+    }
+
+    ul{
+        display:inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+
+    .itenslista {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-style: italic;
+    }
+
+    .beneficios{
+        padding: 20px;
+
+    }
+
+    #imgbeneficios {
+        width: 50%;
+    }
+    
+</style>
